@@ -1,0 +1,242 @@
+#
+# Results on Thursday March 12 2020 00:44:00 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time.
+# 14. Sentence.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,0,The,x-x-x,0,yes,1576,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,1,therapist,socialism,1,no,1266,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,2,set,ten,0,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,3,up,sit,0,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,4,a,sum,1,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,5,meeting,absence,1,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,6,with,wave,0,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,7,the,ran,0,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,8,upset,keeps,1,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,9,woman,exist,1,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,10,and,dry,0,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,11,her,sum,1,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,12,husband,settled,1,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,27,0,practice,104,13,yesterday.,remainder.,0,no,None,The therapist set up a meeting with the upset woman and her husband yesterday.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,0,The,x-x-x,0,yes,1160,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,1,reporter,invested,1,yes,845,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,2,had,joy,1,yes,1391,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,3,dinner,reduce,0,yes,1576,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,4,yesterday,organisms,1,yes,2262,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,5,with,rise,0,yes,1005,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,6,the,sum,1,yes,823,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,7,baseball,attained,0,yes,1141,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,8,player,tended,1,yes,948,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,9,who,sin,1,yes,814,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,10,Kevin,Troop,1,yes,956,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,25,0,practice,105,11,admired.,flowing.,1,yes,1378,The reporter had dinner yesterday with the baseball player who Kevin admired.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,0,The,x-x-x,0,yes,1217,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,1,mother,placed,0,yes,1309,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,2,of,dry,1,yes,1436,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,3,the,arm,0,yes,565,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,4,prisoner,amounted,0,yes,1076,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,5,sent,rare,1,yes,983,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,6,him,nor,0,yes,566,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,7,packages,rhythmic,0,yes,1199,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,8,that,fund,1,yes,914,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,9,contained,authority,0,yes,753,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,10,cookies,blossom,0,yes,960,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,11,and,me,0,yes,804,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,24,0,practice,107,12,novels.,defect.,1,yes,1314,The mother of the prisoner sent him packages that contained cookies and novels.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,0,The,x-x-x,0,yes,1695,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,1,semester,chivalry,1,yes,930,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,2,will,anti,0,yes,755,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,3,start,wages,1,yes,744,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,4,next,body,0,yes,845,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,5,week%2C,sold%2C,1,yes,858,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,6,but,sin,0,yes,804,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,7,the,sky,0,yes,1041,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,8,students,entitled,0,yes,962,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,9,and,sky,1,yes,799,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,10,teachers,concrete,0,yes,928,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,11,are,oil,1,yes,1126,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,12,not,him,1,yes,859,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,23,0,practice,108,13,ready.,goods.,0,yes,1089,The semester will start next week%2C but the students and teachers are not ready.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,0,The,x-x-x,0,yes,2979,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,1,witness,creates,0,yes,1204,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,2,identified,relatively,1,yes,1357,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,3,the,sky,1,yes,800,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,4,man%2C,my,0,yes,1115,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,5,and,ice,0,yes,665,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,6,his,mid,1,yes,850,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,7,wife,meet,0,yes,772,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,8,ran,air,0,yes,875,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,9,away,sale,1,yes,721,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,10,from,seen,0,yes,712,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,11,the,won,1,yes,542,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,12,police,either,1,yes,1197,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,11,0,and_comma,48,13,station.,develop.,0,yes,928,The witness identified the man%2C and his wife ran away from the police station.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,0,Bob,x-x-x,0,yes,795,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,1,will,mere,1,yes,1226,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,2,complete,quantity,0,yes,1457,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,3,the,sat,0,yes,735,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,4,project,suppose,0,yes,1033,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,5,he,joy,1,yes,884,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,6,started,officer,0,yes,796,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,7,next,soul,1,yes,647,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,8,month%2C,funds%2C,1,yes,828,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,9,but,fat,0,yes,749,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,10,Fred,Kiss,0,yes,2057,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,11,won't,inner,1,yes,1017,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,12,finish,throne,1,yes,1108,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,8,0,adverb_high,71,13,his.,ran.,0,yes,1199,Bob will complete the project he started next month%2C but Fred won't finish his.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,0,The,x-x-x,0,yes,606,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,1,aunt,unto,1,yes,935,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,2,of,joy,1,yes,1441,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,3,the,per,0,yes,763,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,4,waiter,midway,1,yes,964,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,5,who,net,1,yes,1468,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,6,trained,essence,1,yes,1712,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,7,herself,pattern,1,yes,1183,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,8,to,map,0,yes,701,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,9,cook,wars,0,yes,904,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,10,wanted,report,1,yes,704,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,11,to,ago,1,no,1043,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,12,own,we,0,no,None,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,13,a,map,1,no,None,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,16,0,relative_high,23,14,restaurant.,correspond.,1,no,None,The aunt of the waiter who trained herself to cook wanted to own a restaurant.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,0,Yesterday,x-x-x,0,yes,1223,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,1,the,sin,1,yes,620,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,2,wife,both,0,yes,597,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,3,of,bad,1,yes,465,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,4,the,off,0,yes,530,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,5,politician,refinement,1,yes,904,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,6,discussed,evolution,0,yes,1087,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,7,health,cities,0,yes,2510,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,8,care,none,0,yes,947,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,9,with,thin,0,yes,1169,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,10,old,am,0,no,1385,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,19,0,filler,133,11,people.,quoted.,0,no,None,Yesterday the wife of the politician discussed health care with old people.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,0,Jenny,x-x-x,0,yes,1765,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,1,talked,deeper,0,yes,2613,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,2,to,net,0,yes,693,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,3,the,ran,1,yes,528,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,4,reporter,dividing,0,yes,1244,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,5,and,mid,1,yes,807,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,6,the,thy,0,yes,729,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,7,photographer,transitional,1,yes,1039,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,8,took,laws,1,yes,1111,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,9,pictures,increase,1,yes,1033,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,10,of,our,1,yes,791,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,11,the,nor,1,yes,823,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,12,0,and_no_comma,47,12,scene.,knows.,0,yes,869,Jenny talked to the reporter and the photographer took pictures of the scene.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,0,The,x-x-x,0,yes,709,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,1,cute,clot,0,yes,1103,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,2,girl,done,1,yes,547,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,3,who,net,0,yes,771,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,4,was,mid,0,yes,857,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,5,on,sum,1,yes,1828,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,6,the,nor,1,yes,1215,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,7,cover,apply,1,yes,1910,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,8,of,gas,1,yes,720,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,9,the,eat,1,yes,577,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,10,magazine,velocity,0,yes,718,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,11,became,growth,0,yes,858,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,12,a,try,1,yes,959,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,13,famous,injury,0,yes,955,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,21,0,filler,131,14,doctor.,assume.,0,yes,1119,The cute girl who was on the cover of the magazine became a famous doctor.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,0,The,x-x-x,0,yes,663,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,1,niece,swarm,0,yes,903,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,2,of,ill,1,yes,517,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,3,the,joy,0,yes,554,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,4,butler,accord,0,yes,1160,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,5,who,thy,0,yes,1481,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,6,scolded,starter,0,yes,1385,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,7,himself,variety,1,no,65,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,8,for,lot,1,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,9,losing,pushed,0,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,10,the,ad,1,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,11,key,our,1,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,12,was,sky,0,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,13,very,tone,1,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,15,0,relative_low,24,14,upset.,tubes.,1,no,None,The niece of the butler who scolded himself for losing the key was very upset.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,0,Kim,x-x-x,0,yes,821,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,1,will,milk,0,yes,1327,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,2,display,dealing,0,yes,1363,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,3,the,sit,0,yes,658,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,4,photos,compel,1,yes,1067,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,5,she,eat,0,yes,768,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,6,took,thin,1,yes,655,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,7,last,poem,0,yes,698,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,8,month%2C,older%2C,1,yes,724,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,9,but,us,0,yes,1106,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,10,she,thy,0,yes,1329,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,11,won't,scale,1,yes,1301,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,12,show,soft,0,yes,1414,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,13,all,ran,0,yes,705,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,14,of,eat,1,yes,475,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,7,0,adverb_low,72,15,them.,soon.,1,yes,871,Kim will display the photos she took last month%2C but she won't show all of them.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,0,The,x-x-x,0,yes,1908,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,1,boyfriend,detectors,1,yes,734,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,2,of,joy,0,yes,751,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,3,the,won,0,yes,687,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,4,model,shall,1,yes,983,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,5,was,sin,0,yes,706,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,6,killed,prices,0,yes,1380,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,7,in,sin,0,yes,732,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,8,an,put,1,yes,1739,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,9,accident,petition,1,yes,1176,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,10,while,exist,0,yes,1076,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,11,skiing,cigars,0,yes,1131,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,12,last,tell,1,yes,939,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,20,0,filler,132,13,week.,hear.,1,yes,1531,The boyfriend of the model was killed in an accident while skiing last week.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,0,Jane,x-x-x,0,yes,712,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,1,and,boy,1,yes,691,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,2,John,Door,1,yes,1565,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,3,studied,trouble,1,yes,1185,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,4,math,lien,0,yes,1148,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,5,and,me,1,yes,924,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,6,history,nations,0,yes,3597,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,7,yesterday%2C,customers%2C,1,yes,1194,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,8,but,tax,0,yes,702,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,9,they,vote,0,yes,915,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,10,failed,months,1,yes,1392,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,11,the,thy,1,yes,870,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,26,0,filler,112,12,exams.,decks.,1,yes,852,Jane and John studied math and history yesterday%2C but they failed the exams.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,0,The,x-x-x,0,yes,686,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,1,children,anything,0,yes,976,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,2,of,oil,0,yes,745,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,3,the,nor,1,yes,666,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,4,rich,lies,1,yes,1017,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,5,man,net,1,yes,916,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,6,were,safe,0,yes,941,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,7,spoiled%2C,manages%2C,1,yes,1472,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,8,but,law,1,yes,872,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,9,they,mode,1,yes,850,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,10,were,soil,0,yes,880,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,11,charming,mobility,1,yes,2107,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,12,and,ran,1,yes,1508,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,18,0,filler,134,13,handsome.,clusters.,1,yes,1230,The children of the rich man were spoiled%2C but they were charming and handsome.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,0,The,x-x-x,0,yes,598,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,1,writer,issued,0,yes,921,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,2,of,sea,1,yes,805,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,3,the,lie,1,yes,1043,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,4,novels,derive,1,yes,1138,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,5,thought,measure,1,yes,1380,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,6,himself,islands,1,yes,1073,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,7,to,map,0,yes,809,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,8,be,tax,1,yes,669,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,9,a,try,0,yes,614,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,10,genius%2C,lights%2C,0,yes,1186,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,11,but,thy,0,yes,767,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,12,he,tax,1,yes,641,The writer of the novels thought himself to be a genius%2C but he wasn't.
+1583973840,f3bfb46686a79cfae833798373de670f,Maze,22,0,filler,130,13,wasn't.,divine.,0,yes,1028,The writer of the novels thought himself to be a genius%2C but he wasn't.
